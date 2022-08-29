@@ -1,0 +1,10 @@
+#box1 {
+    background-color: aqua;
+    font-style: italic;
+    border: 10px;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    padding: auto;
+    
+}
